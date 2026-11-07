@@ -1,0 +1,12 @@
+=======================================================
+OrthoFinder: Passer montanus vs Homo sapiens
+=======================================================
+Shared orthogroups:         13476
+Sparrow-specific groups:    3635
+Human-specific groups:      0
+Total ortholog pairs:       34420
+Sparrow genes mapped:       13760
+Human genes mapped:         15455
+1-to-1 orthologs:           12603
+ENSP->Symbol in human FASTA: 122314
+Transcript->Gene in GTF:     43747
